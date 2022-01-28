@@ -1,0 +1,8 @@
+
+    1- react-native-onboarding-swiper
+    2- @react-native-community/async-storage
+    3- @react-navigation/native
+    4- @react-navigation/native-stack
+    5- @expo-google-fonts/poppins
+    6- @expo-google-fonts/roboto
+    7- react-native-vector-icons
